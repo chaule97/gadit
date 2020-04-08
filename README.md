@@ -1,5 +1,5 @@
 # gadit
-Tool Auto Swipt Right Tinder
+Tool Auto Swipe Right Tinder
 
 # Require:
 Python 3.6\
