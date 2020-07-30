@@ -1,0 +1,8 @@
+*.spec
+*.log
+dist
+env
+.vscode
+build
+__pycache__
+chromedriver.exe
