@@ -4,6 +4,8 @@ from selenium.common.exceptions import WebDriverException, SessionNotCreatedExce
 import time
 import os
 
+# pyinstaller --onefile --icon=icon.ico main.py
+
 print("Để chạy được tool: Phải đảm bảo đã tắt hết trình duyệt Chrome và đã đăng nhập Tinder")
 while True:
     a = input("Bạn đã chắc chắn (y/n):")
